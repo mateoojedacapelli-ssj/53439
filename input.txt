@@ -1,8 +1,4 @@
-x = 2 + 3
-y = 3
-z = x + y
-z
-
+AA1234 JFK-LAX 15:30, DELAYED, Gate: B12
 
 
 

@@ -1,0 +1,4 @@
+AA123 JF-LAX 15:30 DELAYED Gate: B12
+
+//El codigo de aeropuerto tiene 2 letras en lugar de 3
+//Faltan las comas separadoras 
