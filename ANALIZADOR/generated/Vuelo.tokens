@@ -1,0 +1,12 @@
+T__0=1
+T__1=2
+T__2=3
+ESTADO=4
+HORA=5
+CODIGO_VUELO=6
+AEROPUERTO=7
+PUERTA=8
+WS=9
+'-'=1
+','=2
+'Gate:'=3

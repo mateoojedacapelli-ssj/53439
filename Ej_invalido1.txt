@@ -1,0 +1,3 @@
+AA1234 JFK-LAX 15:30, DELAYED, Gate: B12
+
+// El codigo de vuelo tiene 4 digitos en vez de 3

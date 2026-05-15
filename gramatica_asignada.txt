@@ -1,0 +1,12 @@
+<vuelo>    ::= <codigo_vuelo> <aeropuerto_salida> "-" <aeropuerto_llegada> hora ;
+<codigo_vuelo> ::= <letra><letra><digito><digito><digito>; (* Ej: "AA123" *)
+<aeropuerto>   ::= <letra><letra><letra>; (* Utilizar Código IATA *)
+<hora>     ::= ("00".."23" ":" "00".."59") | "NOW" ;
+<fecha>    ::= <digito><digito> "/" <digito><digito> "/" <digito><digito>; (* DD/MM/YY *)
+<estado>   ::= "ON_TIME" | "DELAYED" | "CANCELLED" ;
+<operador> ::= <letra>{ letra | " " }; (* Ej: "American Airlines" *)
+<asiento>  ::= ("A"|"B"|"C"|"D"|"E"|"F") <digito> { <digito> } ;
+<puerta>   ::= <letra><digito> { <digito> }; (* Ej: "B12" *)
+<terminal> ::= <digito> | <letra> ;
+
+//gramatica EBNF
