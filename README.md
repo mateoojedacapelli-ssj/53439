@@ -3,13 +3,13 @@
 
 REQUISITOS PREVIOS
 
-    1- Tener java version 1.21
+    1- Tener JRE instalado version 1.21 (https://www.java.com/en/download/)
     
-    2- Tenr Node.js version 1.16 en adelante
+    2- Tener Node.js version 1.16 en adelante (https://nodejs.org/es)
     
-    3- Tener VS code
+    3- Tener Visual studio code (https://code.visualstudio.com/)
 
-TAREA A REALIZAR POR EL ANALIZADOR 
+TAREA QUE REALIZAR POR EL ANALIZADOR 
 
     1- Realiza el analisis léxico y sintático sobre el codigo fuente
     
