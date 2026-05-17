@@ -23,15 +23,15 @@ EJECUCIÓN ENTRADA VALIDA
 
 PASO 1: 
 
-- Al clonar el repositorio debemos abrir la terminal (ctrl + ñ) y ejecutar el comando "npm install"
+-Primero debemos clonar los archivos del repositorio en nuestro VS studio. Sobre el proyecto abierto abrimos la terminal tocando ctrl + ñ. Ejecutar el comando "cd ANALIZADOR" sobre la terminal
 
 PASO 2: 
 
-- En la terminal debemos ejecutar el comando "cd ANALIZADOR"
+- Sobre la misma terminal ejecutar el comando "npm install"
 
 PASO 3: 
 
-- Debemos tomar el texto de alguno de los archivos .txt validos y pegarlos en nuestro input.txt. Guardar con ctrl + s 
+- Debemos tomar el texto de alguno de los archivos .txt validos, en este caso tomamos el ejemplo 2 "LV789 MAD-BCN 08:45, CANCELLED, Gate: C15" y pegarlo en nuestro input.txt. Guardar con ctrl + s 
 <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/2a804285-3363-4124-9104-e1bf9d2e08f2" />
 
 PASO 4: 
